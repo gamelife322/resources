@@ -1,0 +1,36 @@
+[{
+    "name": "Carrot",
+    "discount": false,
+    "price": 0.99,
+    "quantity": 5
+},
+{
+    "name": "Potato",
+    "discount": true,
+    "price": 0.80,
+    "quantity": 20    
+},
+{
+    "name": "Onion",
+    "discount": true,
+    "price": 1.20,
+    "quantity": 4    
+},
+{
+    "name": "Cabbage",
+    "discount": false,
+    "price": 10.50,
+    "quantity": 1    
+},
+{
+    "name": "Egg",
+    "discount": true,
+    "price": 0.30,
+    "quantity": 12    
+},
+{
+    "name": "Cucumber",
+    "discount": false,
+    "price": 1.50,
+    "quantity": 3    
+}];
